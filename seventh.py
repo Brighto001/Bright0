@@ -500,7 +500,8 @@
 # my_funtion("Tobias")
 # my_funtion("Linus")
 
-def my_add(a, b):
-    print(a/b)
+# def my_add(a, b):
+#     print(a/b)
 
-my_add(5, 10)
+# my_add(5, 10)
+
